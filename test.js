@@ -1,2 +1,3 @@
 alert("hello_world");
-alert("ok")
+console.log("log")
+alert("everything ok")
